@@ -179,7 +179,7 @@ Before running this project, ensure you have:
    npm run preview
    ```
 
-The application will be available at `http://localhost:5173` (or similar port).
+The application will be available at `` (or similar port).
 
 ---
 
@@ -223,7 +223,7 @@ afshar-Portfolio/
 - **Higher Secondary Education** - CBSE/MP Board (Completed 2023)
 - **Secondary Education** - CBSE/MP Board (Completed 2021)
 
-Currently focused on developing expertise in AI, machine learning, and data science with practical applications in real-world projects.
+Currently focused on developing expertise in AI, machine learning, and data science with practical applications in real-worldhttp://localhost:5173 projects.
 
 ---
 
