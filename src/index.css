@@ -9,6 +9,7 @@
   --accent:#00ffff;
   --accent-dark:#00ff99;
   --accent-light:#00ffcc;
+  --accent-2:#00ff99;
   --glass: rgba(0,255,255,0.05);
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 }

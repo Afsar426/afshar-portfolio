@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 
 // 🖼️ Import Assets
-const photo = '/ashu.jpeg' // Afsar's photo
+const photo = '/photo.jpeg' // Afsar's photo
 const githubLogo = '/github.png'
 const linkedinLogo = '/linkedin.png'
 const gmailLogo = '/gmail.png'
@@ -197,7 +197,8 @@ export default function Home() {
                 key={i}
                 whileHover={{
                   scale: 1.05,
-                  background: 'linear-gradient(90deg,var(--accent),var(--accent-2))',
+                  backgroundColor: '#00ffff',
+                  color: '#000',
                 }}
                 transition={{ type: 'spring', stiffness: 200 }}
                 style={{

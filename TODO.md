@@ -1,16 +1,9 @@
-# Portfolio Color Scheme Update Plan
+# TODO: Deploy Portfolio to GitHub Pages
 
-## Tasks
-- [x] Update :root CSS variables to new dark palette colors
-- [x] Change body background to dark gradient
-- [x] Update navbar styles for dark theme
-- [x] Update hero section background and styles
-- [x] Update card backgrounds and borders
-- [x] Apply gradients for hero background and progress bar
-- [x] Adjust text colors to whites and grays
-- [x] Update About page to dark theme with neon accents
-- [x] Update Contact page to dark theme with neon accents
-
-## Followup Steps
-- [x] Run dev server to test the new color scheme
-- [x] Verify all elements look attractive and readable
+## Pending Tasks
+- [ ] Log into GitHub via GitHub CLI (gh auth login)
+- [ ] Add all modified and untracked files to Git
+- [ ] Commit changes with message "Update portfolio photo and prepare for deployment"
+- [ ] Push commits to main branch
+- [ ] Verify GitHub Pages deployment (workflow will trigger on push)
+- [ ] Confirm live site URL: https://afsar426.github.io/adv-portfolio-/
